@@ -1,0 +1,109 @@
+#all{
+  z-index: 1;
+ 
+  width: 100%;
+  height: 100vh;
+}
+.navbar{
+  padding: 15px;
+  margin-bottom: 15px;
+
+}
+.container{
+  padding: 10px;
+  display: inline-flex;
+  
+}
+.title{
+  position: relative;
+  
+}
+.head-container{
+  padding: 10px 35px;
+  width: 100%;
+  height: 90%;
+  background:hsl(237, 63%, 64%);
+  color: white;
+  align-items: center;
+  border-radius: 5px;
+  margin: -0px 0px;
+  display: inline-block;
+}
+.head-container-left{
+  margin: 10;
+  padding: 10px 35px;
+  width: 100%;
+  background:rgb(223, 221, 221);
+  color: hsl(232, 13%, 33%);
+  align-items: center;
+  border-radius: 5px;
+  margin: 10px;
+  display: inline-block;
+}
+.head-container-left button{
+  color:white;
+  background-color: hsl(237, 63%, 64%);
+}
+.head-container-right button{
+  color:white;
+  background-color: hsl(237, 63%, 64%);
+}
+.head-container-right{
+  padding: 10px 35px;
+  width: 100%;
+  background:rgb(223, 221, 221);
+  color:hsl(232, 13%, 33%);
+  align-items: center;
+  border-radius: 5px;
+  margin: 10px;
+  display: inline-block;
+}
+#price{
+  font-size: 60px;
+}
+.head-container button{
+  margin-top: 10px;
+}
+.head-container hr{
+  background-color:whitesmoke;
+}
+.btn{
+  width: 150px;
+  padding: 5px 0px;
+  background-color: white;
+  color: hsl(237, 63%, 64%);
+}
+.card-right{
+  padding: 10px 35px;
+  width: 100%;
+  height: 100%;
+  background:Dark Grayish;
+  color: white;
+  align-items: center;
+  border-radius: 5px;
+  margin: 10px;
+  display: inline-block;
+}
+.toggle input{
+  padding: 1px 25px;
+  margin: 0px 10px 0px 10px;
+  height: 25px;
+  width: 20px;
+  text-decoration: none;
+  outline: none;
+  
+  
+}
+
+.toggle{
+  display: inline-flex;
+  margin: 10px 15px;
+  color: hsl(231, 11%, 51%);
+}
+.slider{
+  padding: 0px 10px 5px 10px;
+  border-radius: 10px;
+  background-color: aqua;
+ 
+
+}
